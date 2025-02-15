@@ -1,2 +1,3 @@
 New file Testgit log --oneline
 New adding
+Adding 2
